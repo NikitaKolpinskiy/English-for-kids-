@@ -227,6 +227,7 @@
     margin: 30px auto;
     border: 10px solid white;
     border-radius: 50%;
+    pointer-events: none;
 }
 
 .card-section_set-A {
